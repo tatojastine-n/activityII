@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\CalendarEventOrganizer\bin\Debug\CalendarEventOrganizer.exe.config
+C:\Users\HP\source\repos\CalendarEventOrganizer\bin\Debug\CalendarEventOrganizer.exe
+C:\Users\HP\source\repos\CalendarEventOrganizer\bin\Debug\CalendarEventOrganizer.pdb
+C:\Users\HP\source\repos\CalendarEventOrganizer\obj\Debug\CalendarEventOrganizer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CalendarEventOrganizer\obj\Debug\CalendarEventOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CalendarEventOrganizer\obj\Debug\CalendarEventOrganizer.exe
+C:\Users\HP\source\repos\CalendarEventOrganizer\obj\Debug\CalendarEventOrganizer.pdb
